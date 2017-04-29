@@ -1,3 +1,3 @@
 This is a README file
 
-git
+Step 1. First change into newBranch branch
