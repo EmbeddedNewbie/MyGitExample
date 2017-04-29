@@ -15,3 +15,5 @@ Step 4. Fourth change into newBranch branch
 Step 5. Fifth change into newBranch branch 
 
 EDITS TO THE README FILE
+
+MORE EDITS TO THIS FILE
