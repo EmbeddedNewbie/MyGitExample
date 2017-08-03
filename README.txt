@@ -11,6 +11,3 @@ Step 3. Third change into newBranch branch
 
 Comment 3 "NO comments agein"
 
-EDITS TO THE README FILE
-
-MORE EDITS TO THIS FILE
