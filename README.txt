@@ -20,6 +20,9 @@ Step 9. Ninth change into newBranch branch
 Step 10. Tenth change into newBranch branch
 Step 11. Eleventh change into newBranch branch
 
+Step 12. Tenth change into newBranch branch
+Step 13. Eleventh change into newBranch branch
+
 
 Comment 3 "NO comments agein"
 
