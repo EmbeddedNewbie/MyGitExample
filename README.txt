@@ -11,5 +11,15 @@ Step 3. Third change into newBranch branch
 Step 4. Fourth change into newBranch branch
 Step 5. Fifth change into newBranch branch
 
+Step 6. Sixth change into newBranch branch
+Step 7. Seventh change into newBranch branch
+
+Step 8. Eighth change into newBranch branch
+Step 9. Ninth change into newBranch branch
+
+Step 10. Tenth change into newBranch branch
+Step 11. Eleventh change into newBranch branch
+
+
 Comment 3 "NO comments agein"
 
